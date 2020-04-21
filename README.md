@@ -67,3 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Marioplan_react-redux_firebase_tutorial
+# Marioplan_react_redux_firebase_tutorial
